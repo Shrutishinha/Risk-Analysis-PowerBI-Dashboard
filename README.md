@@ -24,7 +24,7 @@ business process risks, instances, and observations for decision support.
 - Time-based Trend Analysis
 
 ## 🔹 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("C:\Users\shruti sinha\OneDrive\Desktop\powerBI Dashboard\screen short\Screenshot 2026-01-26 202030.png")
 
 ## 🔹 How to Use
 1. Download the `.pbix` file
