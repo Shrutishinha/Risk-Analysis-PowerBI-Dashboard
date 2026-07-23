@@ -1,6 +1,6 @@
 # Risk Analysis Power BI Dashboard  
 ### Business Intelligence • Risk Management • Data Analytics  
-jiji
+
 A professional business intelligence solution designed to convert organizational risk data into actionable insights through structured analytics and interactive visualization.
 
 ---
