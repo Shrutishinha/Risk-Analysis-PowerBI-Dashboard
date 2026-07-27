@@ -1,262 +1,325 @@
-# Risk Analysis Power BI Dashboard  
-### Business Intelligence • Risk Management • Data Analytics  
+<div align="center">
 
-A professional business intelligence solution designed to convert organizational risk data into actionable insights through structured analytics and interactive visualization.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:2575FC,100:00C9FF&text=Shruti%20Sinha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20Enthusiast%20|%20Software%20Developer&descAlignY=58"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shruti+Sinha;B.Tech+CSE+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀"/>
 
-## 1. Project Overview  
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+</p>
 
-Organizations today generate large volumes of operational data. However, without proper analytical systems, this data remains underutilized.
-
-The Risk Analysis Power BI Dashboard was developed to address this challenge by providing a centralized, data-driven platform for monitoring, evaluating, and managing business risks in real time.
-
-This system enables decision-makers to transition from manual reporting to intelligent, automated analysis.
-
----
-
-## 2. Problem Statement  
-
-Traditional risk assessment methods often suffer from:
-
-- Manual data processing  
-- Limited visibility into risk patterns  
-- Delayed reporting  
-- Lack of predictive insights  
-
-As a result, organizations struggle to respond effectively to emerging risks.
-
-This project solves these limitations by introducing a structured, automated, and interactive reporting mechanism.
+</div>
 
 ---
 
-## 3. Project Objectives  
+# 💫 About Me
 
-Based on the identified challenges, the project aims to:
+🎓 B.Tech CSE Student
 
-- Identify high-risk operational processes  
-- Quantify risk severity and frequency  
-- Analyze observation significance  
-- Monitor performance trends over time  
-- Enable proactive risk mitigation  
+📊 Passionate about Data Analytics & Machine Learning
 
-Each objective directly supports improved organizational governance.
+💻 Love solving DSA problems
 
----
+🌱 Currently learning AI, Data Science & Cloud
 
-## 4. System Architecture  
-
-The solution follows a layered analytical architecture.
-
-### Data Layer  
-Stores raw and processed datasets in Excel and CSV formats.
-
-### Processing Layer  
-Uses Power Query for data transformation and validation.
-
-### Analytics Layer  
-Implements DAX measures and KPIs.
-
-### Visualization Layer  
-Delivers insights through Power BI dashboards.
-
-This modular design ensures scalability and maintainability.
+🚀 Building impactful real-world projects
 
 ---
 
-## 5. Technology Stack  
+# 🚀 Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| Data Source | Excel, CSV |
-| Processing | Power Query |
-| Analytics | DAX |
-| Visualization | Power BI Desktop |
-| Deployment | Power BI Service (Planned) |
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql"/>
+</p>
 
-## 6. Data Pipeline Workflow  
+### Frameworks & Libraries
 
-The project follows a real-world business intelligence workflow.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind"/>
+</p>
 
-### Step 1: Data Collection  
-- Extracted operational and audit datasets  
-- Validated source reliability  
+### Databases
 
-### Step 2: Data Cleaning  
-- Removed duplicate entries  
-- Handled missing values  
-- Standardized formats  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-### Step 3: Data Transformation  
-- Normalized attributes  
-- Created calculated columns  
-- Optimized data models  
+### Tools
 
-### Step 4: Data Modeling  
-- Established table relationships  
-- Implemented star schema  
-- Improved query performance  
-
-### Step 5: Measure Development  
-- Designed DAX measures  
-- Built KPIs  
-- Created trend indicators  
-
-### Step 6: Visualization Design  
-- Developed intuitive layouts  
-- Applied corporate color themes  
-- Implemented drill-down features  
-
-### Step 7: Validation and Testing  
-- Verified calculation accuracy  
-- Conducted usability testing  
-- Optimized dashboard performance  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
 
 ---
 
-## 7. Real-Time Analytical Capabilities  
+# 📈 GitHub Statistics
 
-Although based on structured datasets, the dashboard supports near real-time analysis through:
+<div align="center">
 
-- Scheduled data refresh  
-- Dynamic filtering  
-- Live recalculations  
-- Parameter-driven visuals  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-These features simulate real-time business monitoring environments.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
----
-
-## 8. Key Functional Modules  
-
-### Risk Assessment Module  
-Analyzes severity, frequency, and impact of risks.
-
-### Process Monitoring Module  
-Tracks operational performance.
-
-### Observation Management Module  
-Evaluates audit observations.
-
-### Trend Analysis Module  
-Identifies historical and predictive patterns.
-
-### Reporting Module  
-Generates executive summaries.
+</div>
 
 ---
 
-## 9. Dashboard Preview  
+# 📊 Most Used Languages
 
-![Dashboard Preview](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard/blob/main/powerBI%20Dashboard/screen%20short/Screenshot%202026-01-26%20202030.png)
+<div align="center">
 
-Designed according to enterprise reporting standards.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
----
-
-## 10. Installation and Setup  
-
-To deploy this dashboard locally:
-
-1. Download the `.pbix` file  
-2. Install Power BI Desktop  
-3. Open the project file  
-4. Configure data source paths  
-5. Refresh datasets  
-6. Validate visuals  
+</div>
 
 ---
 
-## 11. Performance Optimization  
+# 🏆 GitHub Trophies
 
-The dashboard incorporates multiple optimization strategies:
+<div align="center">
 
-- Efficient DAX expressions  
-- Reduced data redundancy  
-- Optimized relationships  
-- Query folding techniques  
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
 
-These techniques ensure fast loading and smooth interaction.
+</div>
 
 ---
 
-## 12. Learning Outcomes  
+# 📈 Contribution Graph
 
-This project enabled the development of:
+<div align="center">
 
-- Business Intelligence Engineering Skills  
-- Data Modeling Expertise  
-- Analytical Reasoning  
-- Risk Evaluation Techniques  
-- Professional Reporting Practices  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 13. Industry Applications  
+# 🚀 Featured Projects
 
-The system can be deployed in:
+⭐ HireTrack
 
-- Corporate Risk Departments  
-- Audit and Compliance Units  
-- Financial Institutions  
-- Consulting Firms  
-- Governance Agencies  
+⭐ Aarogyavan
 
----
+⭐ Customer Churn Dashboard
 
-## 14. Future Scope  
+⭐ Sentiment Analysis
 
-Planned enhancements include:
-
-- Cloud-based deployment  
-- Automated ETL pipelines  
-- AI-based risk forecasting  
-- Role-based dashboards  
-- Integration with ERP systems  
+⭐ Healthcare Chatbot
 
 ---
 
-## 15. Contribution Guidelines  
+# 🌐 Connect With Me
 
-Contributions are welcome for:
+<p align="center">
 
-- Feature extensions  
-- Performance improvements  
-- Documentation updates  
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Please follow standard Git workflow:
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-1. Fork the repository  
-2. Create a feature branch  
-3. Commit changes  
-4. Submit pull request  
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-## 16. Developer  
-
-**Shruti Sinha**  
-Third-Year Engineering Student  
-Specialization: Data Analytics, Power BI, Python, Machine Learning  
-
-Focused on building scalable, enterprise-grade analytical systems.
+</p>
 
 ---
 
-## 17. Project Impact  
+# 💻 Quote of the Day
 
-This project demonstrates:
+<div align="center">
 
-- End-to-end BI solution development  
-- Real-world analytical workflows  
-- Strategic data interpretation  
-- Professional documentation practices  
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</div>
 
 ---
 
-## 18. License  
+# 🐍 Contribution Snake
 
-This project is developed for academic, learning, and portfolio purposes.
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:92FE9D"/>
+
+</div><div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:2575FC,100:00C9FF&text=Shruti%20Sinha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20Enthusiast%20|%20Software%20Developer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shruti+Sinha;B.Tech+CSE+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New+🚀"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 B.Tech CSE Student
+
+📊 Passionate about Data Analytics & Machine Learning
+
+💻 Love solving DSA problems
+
+🌱 Currently learning AI, Data Science & Cloud
+
+🚀 Building impactful real-world projects
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ HireTrack
+
+⭐ Aarogyavan
+
+⭐ Customer Churn Dashboard
+
+⭐ Sentiment Analysis
+
+⭐ Healthcare Chatbot
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Quote of the Day
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:92FE9D"/>
+
+</div>
