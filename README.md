@@ -246,3 +246,246 @@ Looking For:
 
 <!-- ======================= END TECH STACK ======================= -->
 <!-- ======================= END HERO ======================= -->
+<!-- ======================= PROJECTS SECTION ======================= -->
+
+# 🚀 Featured Projects
+
+## 🩺 Healthcare Chatbot
+
+> AI-powered healthcare assistant built using Python.
+
+✨ Features:
+- Disease prediction
+- Health recommendations
+- PDF report generation
+- Interactive chatbot interface
+
+🛠 Tech Stack:
+`Python` `JSON` `Machine Learning`
+
+---
+
+## 😊 Sentiment Analysis
+
+> Analyze customer reviews and social media text.
+
+✨ Features:
+- Positive/Negative classification
+- Text preprocessing
+- Data visualization
+
+🛠 Tech Stack:
+`Python` `NLTK` `TextBlob` `Pandas`
+
+---
+
+## 📊 Customer Churn Dashboard
+
+> Power BI dashboard for customer retention analysis.
+
+✨ Features:
+- KPI Tracking
+- Churn Insights
+- Interactive Visualizations
+
+🛠 Tech Stack:
+`Power BI` `Excel` `SQL`
+
+---
+
+## 🌱 Aarogyavan
+
+> Smart healthcare and wellness platform.
+
+✨ Features:
+- Health awareness
+- Data management
+- User-friendly interface
+
+🛠 Tech Stack:
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 💼 HireTrack
+
+> Recruitment tracking system.
+
+✨ Features:
+- Candidate tracking
+- Hiring workflow
+- Data management
+
+🛠 Tech Stack:
+`React` `Node.js` `MongoDB`
+
+---
+
+# 💼 Internship Experience
+
+## 📈 Data Analyst Intern
+
+🏢 UMS
+
+📅 June 2025 – August 2025
+
+### Responsibilities
+
+- Data cleaning and preprocessing
+- Dashboard creation
+- SQL analysis
+- Reporting and visualization
+
+---
+
+## 📊 Data Analytics Intern
+
+🏢 Codec Technologies India
+
+### Worked On
+
+- Data analysis projects
+- Business intelligence reporting
+- Dashboard development
+
+---
+
+# 📜 Certifications
+
+✅ AWS Micro Internship
+
+✅ Infosys Selenium Certification
+
+✅ Infosys Generative AI Certification
+
+✅ GeeksforGeeks SQL Certification
+
+✅ Udemy Unit Testing & TDD
+
+✅ IIT Bombay C Programming Certification
+
+✅ Databricks & AWS Learning Programs
+
+---
+
+# 🎓 Education
+
+## 🏫 Dronacharya College of Engineering
+
+**Bachelor of Technology (B.Tech)**
+
+Computer Science Engineering
+
+📍 Gurugram, Haryana
+
+📅 2023 – 2027
+
+---
+
+# 🏆 Achievements
+
+🥇 Active Problem Solver
+
+🥇 LeetCode Daily Practice
+
+🥇 Multiple Analytics Projects
+
+🥇 Machine Learning Enthusiast
+
+🥇 Open Source Learner
+
+🥇 Technical Certifications
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+### 🔥 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+
+### 🟢 GeeksforGeeks
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
+
+### 🟡 HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+
+### 🔵 CodeChef
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge)](https://www.codechef.com)
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Secure a Data Analyst Role
+- 🤖 Build Advanced ML Projects
+- 📊 Master Power BI
+- ☁️ Learn AWS Cloud Technologies
+- 💻 Strengthen DSA & System Design
+- 🌍 Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Random Developer Quote
+
+> “First, solve the problem. Then, write the code.”
+
+— John Johnson
+
+---
+
+# ☕ Fun Facts
+
+- 💻 I enjoy solving coding challenges.
+- 📊 I love working with data.
+- 🚀 Always exploring new technologies.
+- 🎯 Consistency beats motivation.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
+
+<!-- ======================= END README ======================= -->
