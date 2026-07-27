@@ -1,13 +1,19 @@
 <div align="center">
 
-# 📊 Customer Churn Risk Analysis Dashboard
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0033,50:4b0082,100:8a2be2&text=Customer%20Churn%20Risk%20Dashboard&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-### Interactive Power BI dashboard for identifying, scoring, and tracking customer churn risk
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%F0%9F%93%8A+Identifying+Churn+Risk;%F0%9F%8E%AF+Scoring+%26+Segmenting+Customers;%F0%9F%92%A1+Driving+Retention+Decisions"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-8a2be2?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 </div>
 
@@ -77,6 +83,10 @@ SWITCH(
 
 ## 🖼️ Screenshots
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
+</div>
+
 > _Add dashboard screenshots here, e.g._
 > `![Overview Page](screenshots/overview.png)`
 
@@ -101,3 +111,13 @@ SWITCH(
 ## 📄 License
 
 This project is open for learning and portfolio reference. Feel free to fork and adapt.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for checking out this project!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8a2be2,100:1a0033"/>
+
+</div>
