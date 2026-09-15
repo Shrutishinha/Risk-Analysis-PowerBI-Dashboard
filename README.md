@@ -1,5 +1,5 @@
 <div align="center">
-hi
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0033,50:4b0082,100:8a2be2&text=Customer%20Churn%20Risk%20Dashboard&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%F0%9F%93%8A+Identifying+Churn+Risk;%F0%9F%8E%AF+Scoring+%26+Segmenting+Customers;%F0%9F%92%A1+Driving+Retention+Decisions"/>
